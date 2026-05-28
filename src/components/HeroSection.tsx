@@ -69,7 +69,7 @@ export default function HeroSection() {
               </p>
               <p className="text-white/70 text-sm leading-relaxed">
                 Our aim is to deliver safe, cost effective projects with utmost
-                efficiency and to always meet our clients' requirements and
+                efficiency and to always meet our clients requirements and
                 expectations.
               </p>
             </div>
